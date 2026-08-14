@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-obb3wa.juragan89a.space/sitemap.xml
